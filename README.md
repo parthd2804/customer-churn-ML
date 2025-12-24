@@ -40,3 +40,21 @@ The objective of this project is to:
 ---
 
 ## 📁 Repository Structure
+- This repository contains Jupyter notebooks and supporting files for data analysis,
+modeling, and evaluation related to customer churn prediction.
+
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Install dependencies  
+3. Open and run the notebooks to reproduce the analysis
+
+## 📈 Future Improvements
+- Try additional models and hyperparameter tuning
+- Add model explainability techniques
+- Extend analysis to customer segments
+
+## 👤 Author
+Parth  
+Master’s student in Information Systems  
+Focused on analytics, applied AI, and data-driven decision making
